@@ -1,0 +1,15 @@
+.profile-picture {
+    border-radius: 25%;
+}
+
+.divider {
+    height:5px;
+    background-color: white;
+    align-items: center;
+}
+
+.logo {
+    height: 25px;
+    width: 35px;
+    border-radius: 0.25%;
+}
